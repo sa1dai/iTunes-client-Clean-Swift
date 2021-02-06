@@ -114,7 +114,7 @@
                     <connections>
                         <outlet property="collectionView" destination="PkN-6j-8ec" id="x6v-0s-zOc"/>
                         <outlet property="searchBar" destination="4XW-bC-ezO" id="kSk-ex-GbU"/>
-                        <segue destination="2sq-zo-3cS" kind="show" identifier="DetailSegue" id="Y7v-5Y-rQw"/>
+                        <segue destination="2sq-zo-3cS" kind="show" identifier="Detail" id="Y7v-5Y-rQw"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
